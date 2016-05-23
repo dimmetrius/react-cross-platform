@@ -1,0 +1,2 @@
+export NODE_ENV=development
+node node_modules/webpack-dev-server/bin/webpack-dev-server.js --hot --progress --colors
